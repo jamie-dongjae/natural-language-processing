@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+nltk
+gensim
+transformers
+vaderSentiment
+wordcloud
+selenium
+webdriver-manager
+youtube-transcript-api
+requests
+ollama
+matplotlib
+seaborn
